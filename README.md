@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I am AI Student with a passion for Web Development and Psychology<br>📬Shoot me an Email or add me on Linkedin
+😎I am MERN Stack Developer with a passion for Football and Psychology<br>📬Shoot me an Email or add me on Linkedin
 
 
 ## 🌐 Socials:
