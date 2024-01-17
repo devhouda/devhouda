@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I am MERN Stack Developer with a passion for Football and Psychology<br>📬Shoot me an Email or add me on Linkedin
+😎I'm a software developer with a passion for Python, Django and Web Development<br>📬Shoot me an Email or add me on Linkedin
 
 
 ## 🌐 Socials:
