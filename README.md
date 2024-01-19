@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I'm a software developer with a passion for Python, Django and Web Development<br>📬Shoot me an Email or add me on Linkedin
+😎I'm Houda, a dedicated and passionate Full Stack Developer with a strong focus on crafting seamless and engaging frontend experiences.<br>📬Shoot me an Email or add me on Linkedin
 
 
 ## 🌐 Socials:
